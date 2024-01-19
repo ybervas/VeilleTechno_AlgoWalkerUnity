@@ -12,3 +12,7 @@ La deuxième partie commence avec une revue des différentes classes de mon code
 # Pourquoi ai-je choisi cette approche ?
 
 J'ai choisi cette approche car la première partie permet de bien expliquer l'algorithme du walker qui est le coeur du sujet. Et dans la seconde partie, je ne fais qu'une revue des classes pour comprendre la structure du projet et que je n'aurais pas eu le temps d'expliquer le code en détails. De plus, étant donné que cette vidéo porte aussi sur Unity, il fallait que j'explique certains configurations que j'ai trouvé assez complexe, avec notamment les tiles palettes. Puis la démo de fin, permet de voir concrétement ce qui a été fait, ce qui est toujours sympa à voir quand on développe une application graphique.
+
+# Lien du GIT
+
+https://github.com/ybervas/VeilleTechno_AlgoWalkerUnity
